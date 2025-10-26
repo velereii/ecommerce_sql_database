@@ -23,4 +23,4 @@
 • рекурсивных запросов для анализа динамики продаж по месяцам;  
   
 ## Используемые технологии  
-**PostgreSQL**  |  **DBeaver**  |  **pgAdmin**  |  **diagrams.net**
+**PostgreSQL**   |   **DBeaver**   |   **pgAdmin**   |   **diagrams.net**

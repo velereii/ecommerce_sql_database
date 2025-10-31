@@ -1,5 +1,5 @@
 # Ecommerce SQL Database
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=database&logoColor=white)
+![SQL](https://img.shields.io/badge/Language-SQL-lightgrey?logo=sqlite)
 
 ## Описание проекта
 **Ecommerce SQL Database** — это учебный проект по проектированию и реализации базы данных для интернет-магазина электроники и бытовой техники на PostgreSQL.  
